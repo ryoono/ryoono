@@ -1,4 +1,4 @@
-:balloon: Welcome to my profile page! :balloon:  
+:balloon: **Welcome to my profile page!** :balloon:  
 
 My dream is to be a maker.  
 I am willing to learn a wide range of things from electronic circuits to machine learning, and I am working hard every day.  
