@@ -1,4 +1,7 @@
-### Hi there 👋
+:balloon: Welcome to my profile page! :balloon:  
+
+My dream is to be a maker.  
+I am willing to learn a wide range of things from electronic circuits to machine learning, and I am working hard every day.  
 
 <!--
 **ryoono/ryoono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
