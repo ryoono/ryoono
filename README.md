@@ -1,9 +1,9 @@
 :balloon: **Welcome to my profile page!** :balloon:  
 
-My dream is to become a maker.
-I study a wide range of topics from electronic circuits to machine learning.
-My favorite programming language is C.
-Recently, I am interested in chatting AI. 
+My dream is to become a maker.  
+I study a wide range of topics from electronic circuits to machine learning.  
+My favorite programming language is C.  
+Recently, I am interested in chatting AI.   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoono&layout=compact)](https://github.com/ryoono)
 
