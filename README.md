@@ -1,11 +1,14 @@
 :balloon: **Welcome to my profile page!** :balloon:  
 
-My dream is to become a maker.  
+Hello! I'm Ryo Ono.  
+My dream is to become an Interesting Creator.  
 I study a wide range of topics from electronic circuits to machine learning.  
 My favorite programming language is C.  
-Recently, I am interested in chatting AI.   
+Recently, I have been interested in electronics and programming contingent.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoono&layout=compact)](https://github.com/ryoono)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryoono&theme=github)](https://github.com/ryoono)
 
 <!--
 **ryoono/ryoono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
