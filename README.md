@@ -1,10 +1,10 @@
 :balloon: **Welcome to my profile page!** :balloon:  
 
-Hello! I'm Ryo Ono.  
-My dream is to become an Interesting Creator.  
+Hello World!  
+I'm Ryo Ono.  
 I study a wide range of topics from electronic circuits to machine learning.  
 My favorite programming language is C.  
-Recently, I have been interested in electronics and programming contingent.  
+I live my life looking for interesting things to do.  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoono&layout=compact)](https://github.com/ryoono)
 
