@@ -6,6 +6,15 @@ I study a wide range of topics from electronic circuits to machine learning.
 My favorite programming language is C.  
 I live my life looking for interesting things to do.  
 
+---
+
+A work of pride  
+* [ding_dong_flash(Universal design intercom)](https://github.com/ryoono/ding_dong_flash)  
+* [FTW-TT_50_USB(Pleasant typing sound)](https://github.com/ryoono/FTW-TT_50_USB)  
+* [comp_state_meter(Analog Meter for PC)](https://github.com/ryoono/comp_state_meter)  
+
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryoono&layout=compact)](https://github.com/ryoono)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryoono&theme=github)](https://github.com/ryoono)
