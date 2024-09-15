@@ -1,10 +1,8 @@
 :balloon: **Welcome to my profile page!** :balloon:  
 
-Hello World!  
-I'm Ryo Ono.  
-I study a wide range of topics from electronic circuits to machine learning.  
-My favorite programming language is C.  
-I live my life looking for interesting things to do.  
+I have been working as an embedded systems engineer since 2020, specializing in developing control software for escalators.  
+I am passionate about creating things and strive every day to bring my ideas to life.  
+I am interested in microcontrollers and electronics projects.  
 
 ---
 
