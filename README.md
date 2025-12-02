@@ -6,7 +6,8 @@ I am interested in microcontrollers and electronics projects.
 
 ---
 
-A work of pride  
+My Projects  
+* [yorisugu-Leafony(Low-power edge AI silhouette classifier)](https://github.com/ryoono/yorisugu-Leafony)
 * [ding_dong_flash(Universal design intercom)](https://github.com/ryoono/ding_dong_flash)  
 * [FTW-TT_50_USB(Pleasant typing sound)](https://github.com/ryoono/FTW-TT_50_USB)  
 * [comp_state_meter(Analog Meter for PC)](https://github.com/ryoono/comp_state_meter)  
